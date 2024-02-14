@@ -16,7 +16,7 @@ Person person1 = new Person();
 person1.FirstName = "İrfan Mert";
 person1.LastName = "Yavuz";
 person1.BirtYear = 1998;
-person1.NatinonalIdentity = 48115364686 ; 
+person1.NatinonalIdentity = 12345678912 ; 
 
 
 
